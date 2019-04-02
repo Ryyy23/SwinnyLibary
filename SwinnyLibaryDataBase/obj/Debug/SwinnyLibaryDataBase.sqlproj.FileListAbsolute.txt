@@ -1,0 +1,10 @@
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\bin\Debug\SwinnyLibaryDataBase.dacpac
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\bin\Debug\SwinnyLibaryDataBase.dll
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\bin\Debug\SwinnyLibaryDataBase.pdb
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\SwinnyLibaryDataBase.dll
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\SwinnyLibaryDataBase.pdb
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\Model.xml
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\refactor.xml
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\postdeploy.sql
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\predeploy.sql
+C:\Users\Ryordan\source\repos\SwinnyLibary\SwinnyLibaryDataBase\obj\Debug\SwinnyLibaryDataBase.sqlprojAssemblyReference.cache

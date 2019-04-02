@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SwinnyLibaryEntities-Web.config Connection String" description="SwinnyLibaryEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.SwinnyLibaryAPI.csdl|res://*/Models.SwinnyLibaryAPI.ssdl|res://*/Models.SwinnyLibaryAPI.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=swinnylibary.database.windows.net;initial catalog=SwinnyLibary;persist security info=True;user id=Ryy;password=kTe-6GA-mXE-LMK;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ryordan\\source\\repos\\SwinnyLibary\\SwinnyLibaryAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SwinnyLibaryEntities']/@connectionString" />
+  </parameter>
+</parameters>
